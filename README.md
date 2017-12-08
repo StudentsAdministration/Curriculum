@@ -1,5 +1,5 @@
 # Curriculum
-Curriculum for 1st and 2nd Semester Software Design, Kea CS 
+Curriculum for 1<sup>st</sup> and 2<sup>nd</sup> Semester Software Design, Kea CS 
 
 ## 1. semester   
 #### Emnerne for første semesters konstruktionsundervisning var følgende:
