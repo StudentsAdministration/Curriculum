@@ -203,3 +203,8 @@ Fra: **Lesson: Language Basics** https://docs.oracle.com/javase/tutorial/java/nu
 
 ##### Css
 * **Alt fra CSS Tutorial sektionen** https://www.w3schools.com/css/default.asp
+
+
+
+
+_<div align="right">&copy; clbo@kea.dk</div>_
